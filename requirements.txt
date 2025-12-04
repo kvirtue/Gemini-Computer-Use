@@ -1,0 +1,7 @@
+google-genai
+playwright
+flask
+gunicorn
+google-cloud-secret-manager
+
+
