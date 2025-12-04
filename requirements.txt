@@ -1,6 +1,7 @@
 google-genai
 playwright
 flask
+flask-cors
 gunicorn
 google-cloud-secret-manager
 
